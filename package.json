@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "overwatch-api": "^0.13.0"
+  }
+}
